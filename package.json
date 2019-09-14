@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cgbeaulieu/wayfarer/issues"
   },
-  "homepage": "https://github.com/cgbeaulieu/wayfarer#readme"
+  "homepage": "https://github.com/cgbeaulieu/wayfarer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
