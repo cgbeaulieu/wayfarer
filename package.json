@@ -1,0 +1,19 @@
+{
+  "name": "wayfarer",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgbeaulieu/wayfarer.git"
+  },
+  "author": "Christian Beaulieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgbeaulieu/wayfarer/issues"
+  },
+  "homepage": "https://github.com/cgbeaulieu/wayfarer#readme"
+}
